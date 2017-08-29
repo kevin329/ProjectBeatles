@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/ProjectBeatles/app/src/main/res/values-zh/strings.xml -->
+    <eat-comment/>
+    <string-array name="dist">
+        <item>@string/display_all</item>
+        <item>@string/lanyang</item>
+        <item>@string/jiaoxi</item>
+    </string-array>
+    <string-array name="filter">
+        <item>@string/weekday</item>
+        <item>@string/destination</item>
+    </string-array>
+    <string-array name="week">
+        <item>@string/display_all</item>
+        <item>@string/week_1</item>
+        <item>@string/week_2</item>
+        <item>@string/week_3</item>
+        <item>@string/week_4</item>
+        <item>@string/week_5</item>
+        <item>@string/week_6</item>
+        <item>@string/week_7</item>
+    </string-array>
+    <string name="account">帳號</string>
+    <string name="action_logout">登出</string>
+    <string name="action_settings">設定</string>
+    <string name="time_am">上午</string>
+    <string name="app_name">蘭陽交通車</string>
+    <string name="time_day">日</string>
+    <string name="destination">目的地</string>
+    <string name="display_all">全部顯示</string>
+    <string name="empty">空位</string>
+    <string name="full">額滿</string>
+    <string name="jiaoxi">礁溪</string>
+    <string name="lanyang">蘭陽校園</string>
+    <string name="login">登入</string>
+    <string name="time_month">月</string>
+    <string name="msg_cancel_fail">取消失敗</string>
+    <string name="msg_cancel_success">取消成功</string>
+    <string name="msg_reserve_fail">預約失敗</string>
+    <string name="msg_reserve_success">預約成功</string>
+    <string name="password">密碼</string>
+    <string name="time_pm">下午</string>
+    <string name="btn_reserve">預約</string>
+    <string name="btn_search">搜尋</string>
+    <string name="stop_1_lanyang">蘭陽校園</string>
+    <string name="stop_2_wenquan">溫泉路</string>
+    <string name="stop_3_visitor_center">遊客中心</string>
+    <string name="stop_4_sanmin">三民國小</string>
+    <string name="stop_s_1_lanyang">蘭陽校園</string>
+    <string name="stop_s_2_wenquan">溫泉路</string>
+    <string name="stop_s_3_visitor_center">遊客中心</string>
+    <string name="stop_s_4_sanmin">三民國小</string>
+    <string name="title_cancel">取消預約確認</string>
+    <string name="title_my_reservation">我的預約</string>
+    <string name="title_reserve">預約確認</string>
+    <string name="title_timetable">時刻表</string>
+    <string name="week_1">星期一</string>
+    <string name="week_2">星期二</string>
+    <string name="week_3">星期三</string>
+    <string name="week_4">星期四</string>
+    <string name="week_5">星期五</string>
+    <string name="week_6">星期六</string>
+    <string name="week_7">星期日</string>
+    <string name="week_s_1">一</string>
+    <string name="week_s_2">二</string>
+    <string name="week_s_3">三</string>
+    <string name="week_s_4">四</string>
+    <string name="week_s_5">五</string>
+    <string name="week_s_6">六</string>
+    <string name="week_s_7">日</string>
+    <string name="weekday">星期</string>
+    <string name="time_year">年</string>
+    <string name="btn_cancel">取消預約</string>
+    <string name="time_hour">時</string>
+    <string name="time_minute">分</string>
+    <string name="msg_unavailable_0">※目前尚未開放預約。</string>
+    <string name="msg_unavailable_2">※目前無法預約或取消本班車。</string>
+    <string name="msg_disconnect_title">您處於離線狀態</string>
+    <string name="msg_disconnect"> 無法連上 Wi-Fi 網路和行動網路</string>
+    <string name="msg_timeout">連接伺服器失敗</string>
+    <string name="msg_loading">載入中...</string>
+    <string name="about">關於</string>
+    <string name="version">版本</string>
+    <string name="author">作者</string>
+    <string name="compatibility">相容版本</string>
+    <string name="date">組建日期</string>
+    <string name="activated">啟動</string>
+    <string name="my_account">我的帳號</string>
+    <string name="status">狀態</string>
+    <string name="semester">學期</string>
+    <string name="locked">受限制的帳號</string>
+    <string name="stop_5_jiaoxi_station">礁溪車站</string>
+    <string name="stop_s_5_jiaoxi_station">礁溪車站</string>
+    <string name="languages">語言</string>
+    <string name="attendance">搭乘率</string>
+    <string name="stop_6_xihuhui">喜互恵</string>
+</resources>

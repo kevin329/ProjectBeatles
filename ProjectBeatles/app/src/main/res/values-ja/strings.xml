@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dist">
+        <item>@string/display_all</item>
+        <item>@string/lanyang</item>
+        <item>@string/jiaoxi</item>
+    </string-array>
+    <string-array name="filter">
+        <item>@string/weekday</item>
+        <item>@string/destination</item>
+    </string-array>
+    <string-array name="week">
+        <item>@string/display_all</item>
+        <item>@string/week_1</item>
+        <item>@string/week_2</item>
+        <item>@string/week_3</item>
+        <item>@string/week_4</item>
+        <item>@string/week_5</item>
+        <item>@string/week_6</item>
+        <item>@string/week_7</item>
+    </string-array>
+    <string name="action_logout">ログアウト</string>
+    <string name="action_settings">設定</string>
+    <string name="time_am">午前</string>
+    <string name="app_name">蘭陽バス</string>
+    <string name="time_day">日</string>
+    <string name="destination">行き先</string>
+    <string name="display_all">すべて</string>
+    <string name="empty">空席</string>
+    <string name="full">満席です</string>
+    <string name="jiaoxi">礁渓</string>
+    <string name="lanyang">蘭陽キャンパス</string>
+    <string name="login">ログイン</string>
+    <string name="time_month">月</string>
+    <string name="password">パスワード</string>
+    <string name="time_pm">午後</string>
+    <string name="btn_reserve">予約</string>
+    <string name="btn_search">検索</string>
+    <string name="stop_1_lanyang">蘭陽キャンパス</string>
+    <string name="stop_2_wenquan">温泉路</string>
+    <string name="stop_3_visitor_center">旅客センター</string>
+    <string name="stop_4_sanmin">三民国小</string>
+    <string name="stop_s_1_lanyang">キャンパス</string>
+    <string name="stop_s_2_wenquan">温泉路</string>
+    <string name="stop_s_3_visitor_center">旅客センター</string>
+    <string name="stop_s_4_sanmin">三民国小</string>
+    <string name="title_cancel">予約取消確認</string>
+    <string name="title_my_reservation">私の予約</string>
+    <string name="title_reserve">予約確認</string>
+    <string name="title_timetable">時刻表</string>
+    <string name="week_1">月曜日</string>
+    <string name="week_2">火曜日</string>
+    <string name="week_3">水曜日</string>
+    <string name="week_4">木曜日</string>
+    <string name="week_5">金曜日</string>
+    <string name="week_6">土曜日</string>
+    <string name="week_7">日曜日</string>
+    <string name="week_s_1">月</string>
+    <string name="week_s_2">火</string>
+    <string name="week_s_3">水</string>
+    <string name="week_s_4">木</string>
+    <string name="week_s_5">金</string>
+    <string name="week_s_6">土</string>
+    <string name="week_s_7">日</string>
+    <string name="weekday">曜日</string>
+    <string name="time_year">年</string>
+    <string name="btn_cancel">予約取消</string>
+    <string name="account">ユーザー名</string>
+    <string name="time_hour">時</string>
+    <string name="time_minute">分</string>
+    <string name="msg_unavailable_0">※予約不可</string>
+    <string name="msg_unavailable_2">※予約変更不可</string>
+    <string name="msg_disconnect">Wi-Fi とモバイルデータは利用できません</string>
+    <string name="msg_disconnect_title">現在オフラインです</string>
+    <string name="msg_timeout">サーバーへの接続は失敗しました</string>
+    <string name="msg_loading">ロード中...</string>
+    <string name="version">バージョン</string>
+    <string name="about">について</string>
+    <string name="date">最新更新日</string>
+    <string name="author">作者</string>
+    <string name="compatibility">Android要件</string>
+    <string name="activated">有効</string>
+    <string name="status">状態</string>
+    <string name="semester">学期</string>
+    <string name="locked">制限付きアカウント</string>
+    <string name="my_account">私のアカウント</string>
+    <string name="stop_5_jiaoxi_station">礁渓駅</string>
+    <string name="stop_s_5_jiaoxi_station">礁渓駅</string>
+    <string name="languages">言語</string>
+    <string name="attendance"></string>
+    <string name="stop_6_xihuhui">喜互惠</string>
+</resources>

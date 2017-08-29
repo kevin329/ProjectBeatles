@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <Preference
+            android:key="version"
+            android:title="@string/version"
+            android:summary="1.1 Dev">
+        </Preference>
+        <Preference android:key="date"
+            android:title="@string/date"
+            android:summary="2017/08/23" >
+        </Preference>
+        <Preference android:key="compatibility"
+            android:title="@string/compatibility"
+            android:summary="Android 4.0+" >
+        </Preference>
+        <ListPreference
+            android:dialogTitle="選擇伺服器"
+            android:entries="@array/list_options"
+            android:entryValues="@array/list_options_values"
+            android:key="server_url"
+            android:summary="%s"
+            android:title="更新伺服器"
+            android:defaultValue="https://www.vinmajor.com.tw/kevin/">
+        </ListPreference>
+    <PreferenceCategory android:title="@string/credits"
+        android:layout="@layout/preference_category">
+        <Preference
+            android:key="author"
+            android:title="@string/author"
+            android:summary="Kevin Chiu">
+        </Preference>
+        <Preference
+            android:key="languages"
+            android:title="@string/languages"
+            android:summary="@string/languages_list">
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dist">
+        <item>@string/display_all</item>
+        <item>@string/lanyang</item>
+        <item>@string/jiaoxi</item>
+    </string-array>
+    <string-array name="filter">
+        <item>@string/weekday</item>
+        <item>@string/destination</item>
+    </string-array>
+    <string-array name="week">
+        <item>@string/display_all</item>
+        <item>@string/week_1</item>
+        <item>@string/week_2</item>
+        <item>@string/week_3</item>
+        <item>@string/week_4</item>
+        <item>@string/week_5</item>
+        <item>@string/week_6</item>
+        <item>@string/week_7</item>
+    </string-array>
+    <string-array name="list_options">
+        <item>本機</item>
+        <item>Demo Server</item>
+        <item>http://192.168.1.111/test/</item>
+        <item>http://192.168.1.100/</item>
+    </string-array>
+    <string-array name="list_options_values">
+        <item>http://127.0.0.1:8080/test/</item>
+        <item>https://www.vinmajor.com.tw/kevin/</item>
+        <item>http://192.168.1.111/test/</item>
+        <item>http://192.168.1.100/</item>
+    </string-array>
+    <string name="account">Username</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_am">AM</string>
+    <string name="app_name">Lanyang Shuttle</string>
+    <string name="time_day">Day</string>
+    <string name="destination">Destination</string>
+    <string name="display_all">Show all</string>
+    <string name="empty">Seats left</string>
+    <string name="full">Full</string>
+    <string name="jiaoxi">Jiaoxi</string>
+    <string name="lanyang">Lanyang Campus</string>
+    <string name="login">Login</string>
+    <string name="time_month">Month</string>
+    <string name="msg_cancel_fail">Cancel Fail</string>
+    <string name="msg_cancel_success">Cancel Successful</string>
+    <string name="msg_reserve_fail">Reserve Fail</string>
+    <string name="msg_reserve_success">Reserve Successful</string>
+    <string name="password">Password</string>
+    <string name="time_pm">PM</string>
+    <string name="btn_reserve">Reserve</string>
+    <string name="btn_search">Search</string>
+    <string name="stop_1_lanyang">Lanyang Campus</string>
+    <string name="stop_2_wenquan">Wenquan Rd</string>
+    <string name="stop_3_visitor_center">Jiaoxi Visitor Center</string>
+    <string name="stop_4_sanmin">San-Min Elementary School</string>
+    <string name="stop_s_1_lanyang">Campus</string>
+    <string name="stop_s_2_wenquan">Wenquan Rd</string>
+    <string name="stop_s_3_visitor_center">Visitor Center</string>
+    <string name="stop_s_4_sanmin">SMES</string>
+    <string name="title_cancel">Cancel reservation</string>
+    <string name="title_my_reservation">My Reservation</string>
+    <string name="title_reserve">Reserve</string>
+    <string name="title_timetable">Timetable</string>
+    <string name="week_1">Monday</string>
+    <string name="week_2">Tuesday</string>
+    <string name="week_3">Wednesday</string>
+    <string name="week_4">Thursday</string>
+    <string name="week_5">Friday</string>
+    <string name="week_6">Saturday</string>
+    <string name="week_7">Sunday</string>
+    <string name="week_s_1">MON</string>
+    <string name="week_s_2">TUE</string>
+    <string name="week_s_3">WED</string>
+    <string name="week_s_4">THUR</string>
+    <string name="week_s_5">FRI</string>
+    <string name="week_s_6">SAT</string>
+    <string name="week_s_7">SUN</string>
+    <string name="weekday">Weekday</string>
+    <string name="time_year">Year</string>
+    <string name="btn_cancel">Cancel Check</string>
+    <string name="time_hour">Hour</string>
+    <string name="time_minute">Minute</string>
+    <string name="msg_unavailable_0">Bus can\'t be reserved now.</string>
+    <string name="msg_unavailable_2">Reservation can\'t be modify now.</string>
+    <string name="msg_disconnect_title">You are offline</string>
+    <string name="msg_disconnect">Wi-Fi and mobile data are unavailable</string>
+    <string name="msg_timeout">Cannot connect to server</string>
+    <string name="msg_loading">Loading...</string>
+    <string name="credits" translatable="false">Credits</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="date">Date</string>
+    <string name="compatibility">Compatibility</string>
+    <string name="author">Author</string>
+    <string name="my_account">My Account</string>
+    <string name="status">Status</string>
+    <string name="activated">Activated</string>
+    <string name="locked">Limited Account</string>
+    <string name="semester">Semester</string>
+    <string name="attendance">Seat Utilization</string>
+    <string name="stop_5_jiaoxi_station">Jiaoxi Station</string>
+    <string name="stop_s_5_jiaoxi_station">Jiaoxi Station</string>
+    <string name="languages">Languages</string>
+    <string name="languages_list" translatable="false">正體中文\n简体中文\n日本語\nEnglish</string>
+    <string name="stop_6_xihuhui">SUREWELL</string>
+
+</resources>

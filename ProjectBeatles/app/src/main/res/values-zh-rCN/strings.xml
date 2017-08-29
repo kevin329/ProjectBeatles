@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dist">
+        <item>@string/display_all</item>
+        <item>@string/lanyang</item>
+        <item>@string/jiaoxi</item>
+    </string-array>
+    <string-array name="filter">
+        <item>@string/weekday</item>
+        <item>@string/destination</item>
+    </string-array>
+    <string-array name="week">
+        <item>@string/display_all</item>
+        <item>@string/week_1</item>
+        <item>@string/week_2</item>
+        <item>@string/week_3</item>
+        <item>@string/week_4</item>
+        <item>@string/week_5</item>
+        <item>@string/week_6</item>
+        <item>@string/week_7</item>
+    </string-array>
+    <string name="account">用户名</string>
+    <string name="action_logout">注销</string>
+    <string name="action_settings">设置</string>
+    <string name="time_am">上午</string>
+    <string name="app_name">兰阳交通车</string>
+    <string name="time_day">日</string>
+    <string name="destination">目的地</string>
+    <string name="display_all">全部显示</string>
+    <string name="empty">空位</string>
+    <string name="full">额满</string>
+    <string name="jiaoxi">礁溪</string>
+    <string name="lanyang">兰阳校园</string>
+    <string name="login">登录</string>
+    <string name="time_month">月</string>
+    <string name="msg_cancel_fail">取消失败</string>
+    <string name="msg_cancel_success">取消成功</string>
+    <string name="msg_reserve_fail">预约失败</string>
+    <string name="msg_reserve_success">预约成功</string>
+    <string name="password">密码</string>
+    <string name="time_pm">下午</string>
+    <string name="btn_reserve">预约</string>
+    <string name="btn_search">搜索</string>
+    <string name="stop_1_lanyang">兰阳校园</string>
+    <string name="stop_2_wenquan">溫泉路</string>
+    <string name="stop_3_visitor_center">遊客中心</string>
+    <string name="stop_4_sanmin">三民国小</string>
+    <string name="stop_s_1_lanyang">兰阳校园</string>
+    <string name="stop_s_2_wenquan">溫泉路</string>
+    <string name="stop_s_3_visitor_center">遊客中心</string>
+    <string name="stop_s_4_sanmin">三民国小</string>
+    <string name="title_cancel">取消预约确认</string>
+    <string name="title_my_reservation">我的预约</string>
+    <string name="title_reserve">预约确认</string>
+    <string name="title_timetable">时刻表</string>
+    <string name="week_1">星期一</string>
+    <string name="week_2">星期二</string>
+    <string name="week_3">星期三</string>
+    <string name="week_4">星期四</string>
+    <string name="week_5">星期五</string>
+    <string name="week_6">星期六</string>
+    <string name="week_7">星期日</string>
+    <string name="week_s_1">一</string>
+    <string name="week_s_2">二</string>
+    <string name="week_s_3">三</string>
+    <string name="week_s_4">四</string>
+    <string name="week_s_5">五</string>
+    <string name="week_s_6">六</string>
+    <string name="week_s_7">日</string>
+    <string name="weekday">星期</string>
+    <string name="time_year">年</string>
+    <string name="btn_cancel">取消预约</string>
+    <string name="time_minute">分</string>
+    <string name="time_hour">时</string>
+    <string name="msg_unavailable_0">※目前尚未开放预约。</string>
+    <string name="msg_unavailable_2">※目前无法预约或取消本班车。</string>
+    <string name="msg_disconnect_title">您处于离线状态</string>
+    <string name="msg_disconnect">无法连接到 Wi-Fi 网络和移动数据网络</string>
+    <string name="msg_timeout">连接服务器失败</string>
+    <string name="msg_loading">加载中...</string>
+    <string name="version">版本</string>
+    <string name="about">关于</string>
+    <string name="author">作者</string>
+    <string name="compatibility">兼容版本</string>
+    <string name="date">构建日期</string>
+    <string name="my_account">我的账户</string>
+    <string name="status">状态</string>
+    <string name="semester">学期</string>
+    <string name="locked">受限制的账户</string>
+    <string name="stop_5_jiaoxi_station">礁溪车站</string>
+    <string name="stop_s_5_jiaoxi_station">礁溪车站</string>
+    <string name="languages">语言</string>
+    <string name="attendance">搭乘率</string>
+    <string name="stop_6_xihuhui">喜互惠</string>
+</resources>
